@@ -1,3 +1,4 @@
 /problems
-/.venv
+/venv
+/myenv
 /adobe_test/dump_here.ipynb
