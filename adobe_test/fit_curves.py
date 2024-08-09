@@ -213,3 +213,5 @@ class FitCurves:
                 split_point = i
 
         return max_dist, split_point
+points = np.vstack((x, y)).T
+
